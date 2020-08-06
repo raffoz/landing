@@ -1,0 +1,32 @@
+.footer {
+  background-color: #253138;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+}
+
+.social-icon {
+  font-size: 24px;
+  color: rgb(200,200,200,200);
+  margin: 5px 5px;
+}
+
+.social-icon:hover {
+  color: rgb(170,170,170,170);
+}
+
+.footer p {
+  color: #6B6C6C;
+}
+
+.fas {
+  color: #3a86ff;
+}
